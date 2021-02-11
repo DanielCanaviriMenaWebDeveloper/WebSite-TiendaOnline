@@ -37,6 +37,6 @@ btnLeft.addEventListener("click", function () {
 	moveLeft();
 });
 
-setInterval(() => {
+/* setInterval(() => {
 	moveRight();
-}, 5000);
+}, 5000); */
