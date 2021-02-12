@@ -247,3 +247,9 @@ xxl: 1400px
     display: block;
     margin-top: 20px;
 }
+
+@media screen and (max-width: 530px) {
+    .container-products {
+    grid-template-columns: 1fr;
+}
+}
